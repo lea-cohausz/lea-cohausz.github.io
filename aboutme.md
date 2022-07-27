@@ -23,7 +23,7 @@ If you are interested in any of these areas, feel free to reach out to me.
 - 2018-2021: M.A. Sociology, University of Mannheim
 
 
-### Scholarships
+### Scholarships 
 
 - 2017-2021: Studienstiftung des deutschen Volkes (German Academic Scholarship Foundation)
 - 2016-2017: Deutschlandstipendium
@@ -33,7 +33,7 @@ If you are interested in any of these areas, feel free to reach out to me.
 
 Lea Cohausz. (2022). Towards Real Interpretability of Student Success Prediction Combining Methods of XAI and Social Science.
 *Proceedings of the 15th International Conference on Educational Data Mining, 361–367*. https://doi.org/10.5281/zenodo.6853069.
-<span style="color:springgreen">Best Student Short Paper Award</span>. 
+<span style="color:springgreen">Best Student Short Paper Award</span>
 
 Lea Cohausz, Nils Wilken & Heiner Stuckenschmidt (2022). Plan-Similarity Based Heuristics for Goal Recognition. In *2022 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops) (pp. 316-321)*. IEEE.
 
