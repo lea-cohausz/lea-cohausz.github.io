@@ -18,7 +18,7 @@ If you are interested in any of these topics, feel free to reach out to me.
 
 ### Education
 
-- since 2021: PhD student at the University of Mannheim (informatics)
+- since 2021: PhD student at the University of Mannheim (Informatics)
 - 2018-2020: M.Sc. Data Science, University of Mannheim
 - 2018-2021: M.A. Sociology, University of Mannheim
 
