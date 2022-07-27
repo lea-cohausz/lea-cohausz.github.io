@@ -4,7 +4,7 @@ title: About me
 subtitle: Education, Projects, Interests, and all of that...
 ---
 
-My name is Lea and I'm a PhD student specializing in Artificial Intelligence at the University of Mannheim. I have the notorious habit of being interest in many things which is reflected in pretty much every aspect of my life. Let's start with my research interests:
+My name is Lea Cohausz and I'm a PhD student specializing in Artificial Intelligence at the University of Mannheim. I have the notorious habit of being interest in many things which is reflected in pretty much every aspect of my life. Let's start with my research interests:
 
 - AI-Planning for Goal and Plan Recognition
 - Reinforcement Learning (in the context of Goal Recognition but not limited to that)
