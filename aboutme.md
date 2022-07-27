@@ -4,7 +4,7 @@ title: About me
 subtitle: Education, Projects, Interests, and all of that...
 ---
 
-My name is Lea Cohausz and I'm a PhD student specializing in Artificial Intelligence at the <a href="https://www.w3schools.com/](https://www.uni-mannheim.de/dws/research/focus-groups/artificial-intelligence-prof-stuckenschmidt/">University of Mannheim</a>. I have the notorious habit of being interested in many things which is reflected in pretty much every aspect of my life. 
+My name is Lea Cohausz and I'm a PhD student specializing in Artificial Intelligence at the <a href="https://www.uni-mannheim.de/dws/research/focus-groups/artificial-intelligence-prof-stuckenschmidt/">University of Mannheim</a>. I have the notorious habit of being interested in many things which is reflected in pretty much every aspect of my life. 
 
 ### Research Interests
 
