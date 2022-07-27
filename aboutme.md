@@ -4,12 +4,12 @@ title: About me
 subtitle: Education, Projects, Interests, and all of that...
 ---
 
-My name is Lea Cohausz and I'm a PhD student specializing in Artificial Intelligence at the University of Mannheim. I have the notorious habit of being interest in many things which is reflected in pretty much every aspect of my life. Let's start with my research interests:
+My name is Lea Cohausz and I'm a PhD student specializing in Artificial Intelligence at the <a href="[https://www.w3schools.com/](https://www.uni-mannheim.de/dws/research/focus-groups/artificial-intelligence-prof-stuckenschmidt/)">University of Mannheim</a>. I have the notorious habit of being interested in many things which is reflected in pretty much every aspect of my life. Let's start with my research interests:
 
-- AI-Planning for Goal and Plan Recognition
-- Reinforcement Learning (in the context of Goal Recognition but not limited to that)
+- AI-Planning and Reinforcement Learning for Goal and Plan Recognition
 - Educational Data Mining 
 - relating to that: XAI
+- reasoning about human behavior in general
 
 
 ### Education
@@ -36,6 +36,12 @@ Lea Cohausz, Nils Wilken & Heiner Stuckenschmidt (2022). Plan-Similarity Based H
 Nils Wilken, Lea Cohausz, Johannes Schaum, Stefan Lüdtke, Christian Bartelt and Heiner Stuckenschmidt (2022). Leveraging Planning Landmarks for Hybrid Online Goal Recognition. *ICAPS SPARK.*
 
 
+### Teaching Assistant
+
+- Decision Support: Master-level course on the basics of probability theory, graphical models, utility theory, and reinforcement learning
+- Industrial Applications of AI (my sessions: agriculture/computer vision and learning analytics/XAI): hands-on Master-level course 
+
+
 ### Interests Oustide Academia
 
-I do actually have interests outside academia... but I also like to play around with Computer Vision in my free time. Apart from that, I like to be outside, enjoy going on hikes, bouldering, and being a volunteer firefighter.
+I do actually have interests outside academia... but I also like to play around with Computer Vision in my free time. Apart from that, I enjoy to be outside, going on hikes, bouldering, and being a volunteer firefighter.
