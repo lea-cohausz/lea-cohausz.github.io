@@ -46,6 +46,6 @@ Nils Wilken, Lea Cohausz, Johannes Schaum, Stefan Lüdtke, Christian Bartelt and
 - Industrial Applications of AI (my sessions: agriculture/computer vision and learning analytics/XAI): hands-on Master-level course 
 
 
-### Interests Oustide Academia
+### Interests Outside Academia
 
 I do actually have interests outside academia... but I also like to play around with Computer Vision in my free time. Apart from that, I enjoy to be outside, going on hikes, bouldering, and being a volunteer firefighter.
