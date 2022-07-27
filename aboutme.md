@@ -13,7 +13,7 @@ My name is Lea Cohausz and I'm a PhD student specializing in Artificial Intellig
 - relating to that: XAI
 - reasoning about human behavior in general
 
-If you are interested in any of these areas, feel free to reach out to me.
+If you are interested in any of these topics, feel free to reach out to me.
 
 
 ### Education
