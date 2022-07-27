@@ -14,7 +14,7 @@ My name is Lea and I'm a PhD student specializing in Artificial Intelligence at 
 
 ### Education
 
-- since 2021: PhD-student at the University of Mannheim (informatics)
+- since 2021: PhD student at the University of Mannheim (informatics)
 - 2018-2020: M.Sc. Data Science, University of Mannheim
 - 2018-2021: M.A. Sociology, University of Mannheim
 
