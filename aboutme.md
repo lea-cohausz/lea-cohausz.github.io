@@ -29,6 +29,7 @@ My name is Lea Cohausz and I'm a PhD student specializing in Artificial Intellig
 
 Lea Cohausz. (2022). Towards Real Interpretability of Student Success Prediction Combining Methods of XAI and Social Science.
 *Proceedings of the 15th International Conference on Educational Data Mining, 361–367*. https://doi.org/10.5281/zenodo.6853069.
+<div style="background-color:springgreen;color:black;padding:2%;">Best Student Short Paper Award</div>
 <span style="color:green">Best Student Short Paper Award</span>. 
 
 Lea Cohausz, Nils Wilken & Heiner Stuckenschmidt (2022). Plan-Similarity Based Heuristics for Goal Recognition. In *2022 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops) (pp. 316-321)*. IEEE.
