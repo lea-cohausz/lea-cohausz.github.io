@@ -4,13 +4,13 @@ title: About me
 subtitle: Education, Projects, Interests, and all of that...
 ---
 
-My name is Lea Cohausz and I'm a PhD student specializing in Artificial Intelligence at the <a href="https://www.uni-mannheim.de/dws/research/focus-groups/artificial-intelligence-prof-stuckenschmidt/">University of Mannheim</a>. I have the notorious habit of being interested in many things which is reflected in pretty much every aspect of my life. 
+My name is Lea Cohausz and I'm a PhD student specializing in Artificial Intelligence at the <a href="https://www.uni-mannheim.de/dws/people/researchers/phd-students/">University of Mannheim</a>. I have the notorious habit of being interested in many things which is reflected in pretty much every aspect of my life. 
 
 ### Research Interests
 
 - AI-Planning and Reinforcement Learning for Goal and Plan Recognition
 - Educational Data Mining 
-- relating to that: XAI
+- relating to EDM: XAI and generalizability of models
 - reasoning about human behavior in general
 
 If you are interested in any of these topics, feel free to reach out to me.
