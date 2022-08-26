@@ -8,9 +8,10 @@ My name is Lea Cohausz and I'm a PhD student specializing in Artificial Intellig
 
 ### Research Interests
 
-- AI-Planning and Reinforcement Learning for Goal and Plan Recognition
 - Educational Data Mining 
 - relating to EDM: XAI and generalizability of models
+- causal modeling
+- AI-Planning and Reinforcement Learning for Goal and Plan Recognition
 - reasoning about human behavior in general
 
 If you are interested in any of these topics, feel free to reach out to me.
@@ -32,7 +33,7 @@ If you are interested in any of these topics, feel free to reach out to me.
 ### Publications
 
 Lea Cohausz. (2022). Towards Real Interpretability of Student Success Prediction Combining Methods of XAI and Social Science.
-*Proceedings of the 15th International Conference on Educational Data Mining, 361–367*. https://doi.org/10.5281/zenodo.6853069.
+*Proceedings of the 15th International Conference on Educational Data Mining, 361–367*. <a href="https://doi.org/10.5281/zenodo.6853069">Download the Paper here</a>
 <span style="color:springgreen">Best Student Short Paper Award</span>
 
 Lea Cohausz, Nils Wilken & Heiner Stuckenschmidt (2022). Plan-Similarity Based Heuristics for Goal Recognition. In *2022 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops) (pp. 316-321)*. IEEE.
@@ -40,7 +41,7 @@ Lea Cohausz, Nils Wilken & Heiner Stuckenschmidt (2022). Plan-Similarity Based H
 Nils Wilken, Lea Cohausz, Johannes Schaum, Stefan Lüdtke, Christian Bartelt and Heiner Stuckenschmidt (2022). Leveraging Planning Landmarks for Hybrid Online Goal Recognition. *ICAPS SPARK.*
 
 
-### Teaching Assistant
+### Teaching
 
 - Decision Support: Master-level course on the basics of probability theory, graphical models, utility theory, and reinforcement learning
 - Industrial Applications of AI (my sessions: agriculture/computer vision and learning analytics/XAI): hands-on Master-level course 
@@ -48,4 +49,4 @@ Nils Wilken, Lea Cohausz, Johannes Schaum, Stefan Lüdtke, Christian Bartelt and
 
 ### Interests Outside Academia
 
-I do actually have interests outside academia... but I also like to play around with Computer Vision in my free time. Apart from that, I enjoy to be outside, going on hikes, bouldering, and being a volunteer firefighter.
+I do actually have interests outside academia... I enjoy to be outside, going on hikes, bouldering, and being a volunteer firefighter.
