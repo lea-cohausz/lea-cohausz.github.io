@@ -37,6 +37,13 @@ Lea Cohausz. (2022). Towards Real Interpretability of Student Success Prediction
 <div class="box">
   Best Student Short Paper Award
 </div>
+.box {
+  background: green;
+  border-radius: 5px 5px 0px 0px;
+  text-align: center;
+  color: black;
+  padding: 10px;
+}
 <span style="color:springgreen">Best Student Short Paper Award</span>
 
 Lea Cohausz, Nils Wilken & Heiner Stuckenschmidt (2022). Plan-Similarity Based Heuristics for Goal Recognition. In *2022 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops) (pp. 316-321)*. IEEE.
