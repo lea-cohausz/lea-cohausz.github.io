@@ -6,6 +6,7 @@ subtitle: Education, Projects, Interests, and all of that...
 
 My name is Lea Cohausz and I'm a PhD student specializing in Artificial Intelligence at the <a href="https://www.uni-mannheim.de/dws/people/researchers/phd-students/">University of Mannheim</a>. I have the notorious habit of being interested in many things which is reflected in pretty much every aspect of my life. 
 
+
 ### Research Interests
 
 - Educational Data Mining 
@@ -17,11 +18,13 @@ My name is Lea Cohausz and I'm a PhD student specializing in Artificial Intellig
 If you are interested in any of these topics, feel free to reach out to me.
 
 
+
 ### Education
 
 - since 2021: PhD student at the University of Mannheim (Informatics)
 - 2018-2020: M.Sc. Data Science, University of Mannheim
 - 2018-2021: M.A. Sociology, University of Mannheim
+
 
 
 ### Scholarships 
@@ -30,13 +33,17 @@ If you are interested in any of these topics, feel free to reach out to me.
 - 2016-2017: Deutschlandstipendium
 
 
+
 ### Publications
 
 Lea Cohausz. (2022). Towards Real Interpretability of Student Success Prediction Combining Methods of XAI and Social Science.
 *Proceedings of the 15th International Conference on Educational Data Mining, 361–367*. <a href="https://doi.org/10.5281/zenodo.6853069">Download the Paper here</a> 
+
 <span style="color:springgreen">Best Student Short Paper Award</span>
 
+
 Lea Cohausz, Nils Wilken & Heiner Stuckenschmidt (2022). Plan-Similarity Based Heuristics for Goal Recognition. In *2022 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops) (pp. 316-321)*. IEEE.
+
 
 Nils Wilken, Lea Cohausz, Johannes Schaum, Stefan Lüdtke, Christian Bartelt and Heiner Stuckenschmidt (2022). Leveraging Planning Landmarks for Hybrid Online Goal Recognition. *ICAPS SPARK.*
 
