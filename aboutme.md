@@ -33,7 +33,10 @@ If you are interested in any of these topics, feel free to reach out to me.
 ### Publications
 
 Lea Cohausz. (2022). Towards Real Interpretability of Student Success Prediction Combining Methods of XAI and Social Science.
-*Proceedings of the 15th International Conference on Educational Data Mining, 361–367*. <a href="https://doi.org/10.5281/zenodo.6853069">Download the Paper here</a>
+*Proceedings of the 15th International Conference on Educational Data Mining, 361–367*. <a href="https://doi.org/10.5281/zenodo.6853069">Download the Paper here</a> 
+<div class="box">
+  Best Student Short Paper Award
+</div>
 <span style="color:springgreen">Best Student Short Paper Award</span>
 
 Lea Cohausz, Nils Wilken & Heiner Stuckenschmidt (2022). Plan-Similarity Based Heuristics for Goal Recognition. In *2022 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops) (pp. 316-321)*. IEEE.
