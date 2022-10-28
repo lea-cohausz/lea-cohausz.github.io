@@ -9,9 +9,10 @@ My name is Lea Cohausz and I'm a PhD student specializing in Artificial Intellig
 
 ### Research Interests
 
-- Educational Data Mining 
-- relating to EDM: XAI and generalizability of models
-- causal modeling
+- XAI
+- causal modeling; and combining inference and predictive models
+- generalizability of models
+- much of the above in the context of Educational Data Mining
 - AI-Planning and Reinforcement Learning for Goal and Plan Recognition
 - reasoning about human behavior in general
 
@@ -21,7 +22,7 @@ If you are interested in any of these topics, feel free to reach out to me.
 
 ### Education
 
-- since 2021: PhD student at the University of Mannheim (Informatics)
+- since 2021: PhD student at the University of Mannheim (Computer Science)
 - 2018-2020: M.Sc. Data Science, University of Mannheim
 - 2018-2021: M.A. Sociology, University of Mannheim
 
