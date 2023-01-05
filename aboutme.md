@@ -41,7 +41,6 @@ Lea Cohausz. (2022). When Probabilities Are Not Enough - A Framework for Causal 
 
 Lea Cohausz. (2022). Towards Real Interpretability of Student Success Prediction Combining Methods of XAI and Social Science.
 *Proceedings of the 15th International Conference on Educational Data Mining, 361–367*. <a href="https://doi.org/10.5281/zenodo.6853069">Download the Paper here</a> 
-
 <span style="color:green">Best Student Short Paper Award</span>
 
 
