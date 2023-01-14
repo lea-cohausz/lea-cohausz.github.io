@@ -37,7 +37,7 @@ If you are interested in any of these topics, feel free to reach out to me.
 
 ### Publications
 
-Lea Cohausz. (2022). When Probabilities Are Not Enough - A Framework for Causal Explanations of Student Success Models. *Journal of Educational Data Mining*, **14**(3), 52–75. <a href="https://doi.org/10.5281/zenodo.6853069">Download the Paper here</a>
+Lea Cohausz. (2022). When Probabilities Are Not Enough - A Framework for Causal Explanations of Student Success Models. *Journal of Educational Data Mining*, **14**(3), 52–75. <a href="https://zenodo.org/record/7304800">Download the Paper here</a>
 
 Lea Cohausz. (2022). Towards Real Interpretability of Student Success Prediction Combining Methods of XAI and Social Science.
 *Proceedings of the 15th International Conference on Educational Data Mining, 361–367*. <a href="https://doi.org/10.5281/zenodo.6853069">Download the Paper here</a> 
