@@ -60,3 +60,9 @@ Nils Wilken, Lea Cohausz, Johannes Schaum, Stefan Lüdtke, Christian Bartelt and
 ### Interests Outside Academia
 
 I do actually have interests outside academia... I enjoy to be outside, going on hikes, bouldering, and being a volunteer firefighter.
+
+
+### Social Engagement
+- volunteer firefighter in Mannheim
+- co-organizing the <a href="https://wuman.de/wids/">Women in Data Science Event</a> in Mannheim
+- currently inactive sports coach
