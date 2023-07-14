@@ -59,7 +59,7 @@ Nils Wilken, Lea Cohausz, Johannes Schaum, Stefan Lüdtke, Christian Bartelt and
 ### Teaching
 
 - Decision Support: Master-level course on the basics of probability theory, graphical models (in particular BNs), utility theory, game theory, and reinforcement learning
-- Industrial Applications of AI (my sessions: agriculture/computer vision and education/XAI/causal modelling and inference): hands-on Master-level course 
+- Industrial Applications of AI (my sessions: agriculture/computer vision and education/XAI/causal modelling and XAI): hands-on Master-level course 
 
 
 ### Interests Outside Academia
