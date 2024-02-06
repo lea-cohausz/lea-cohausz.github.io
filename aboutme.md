@@ -50,7 +50,7 @@ Lea Cohausz. 2022. Towards Real Interpretability of Student Success Prediction C
 
 Lea Cohausz, Nils Wilken & Heiner Stuckenschmidt. 2022. Plan-Similarity Based Heuristics for Goal Recognition. In *2022 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops) (pp. 316-321)*. IEEE.
 
-Nils WIlken, Lea Cohausz, Christian Batelt & Heiner Stuckenschmidt. 2023. Planning Landmark Based Goal Recognition Revisited: Does Using Initial State Landmarks Make Sense?. arXiv preprint arXiv:2306.15362.
+Nils Wilken, Lea Cohausz, Christian Batelt & Heiner Stuckenschmidt. 2023. Planning Landmark Based Goal Recognition Revisited: Does Using Initial State Landmarks Make Sense?. arXiv preprint arXiv:2306.15362.
 
 Sarah Alturki, Lea Cohausz & Heiner Stuckenschmidt. 2022. Predicting Master’s students’ academic performance: an empirical study in Germany. *Smart Learning Environments*, **9**(1), 1-22. https://doi.org/10.1186/s40561-022-00220-y
 
