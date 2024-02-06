@@ -65,7 +65,7 @@ Nils Wilken, Lea Cohausz, Johannes Schaum, Stefan Lüdtke, Christian Bartelt and
 
 ### Interests Outside Academia
 
-I enjoy to be outside, going on hikes, bouldering, sailing, playing all kinds of sports, and being a volunteer firefighter.
+I enjoy being outside, going on hikes, bouldering, sailing, playing all kinds of sports, and being a volunteer firefighter.
 
 
 ### Social Involvement
