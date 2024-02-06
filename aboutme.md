@@ -71,5 +71,5 @@ I enjoy being outside, going on hikes, bouldering, sailing, playing all kinds of
 ### Social Involvement
 - volunteer firefighter in Mannheim
 - co-organizing the <a href="https://wuman.de/wids/">Women in Data Science Event</a> in Mannheim
-- active in the <a href="https://www.cybermentorin.de/index.php/de/">Cybermentorin community<\a> which focuses on getting more girls interested in STEM
+- active in the <a href="https://www.cybermentorin.de/index.php/de/">Cybermentorin community</a> which focuses on getting more girls interested in STEM
 - currently inactive sports coach
