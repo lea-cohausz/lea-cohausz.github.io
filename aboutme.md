@@ -36,7 +36,7 @@ If you are interested in any of these topics, feel free to reach out to me.
 
 ### Publications
 
-Lea Cohausz, Jakob Kappenberger, & Heiner Stucknschmidt. 2024. What fairness metrics can really tell you: A case study in the educational domain.*Proceedings of the 14th International Conference on Learning Analytics and Knowledge*. <a href="https://madoc.bib.uni-mannheim.de/66479/1/lak24-30.pdf">Download the Paper here</a> 
+Lea Cohausz, Jakob Kappenberger & Heiner Stucknschmidt. 2024. What fairness metrics can really tell you: A case study in the educational domain.*Proceedings of the 14th International Conference on Learning Analytics and Knowledge*. <a href="https://madoc.bib.uni-mannheim.de/66479/1/lak24-30.pdf">Download the Paper here</a> 
 
 Lea Cohausz, Andrej Tschalzev, Christian Bartelt & Heiner Stucknschmidt. 2023. Investigating the Importance of Demographic Features for EDM-Predictions.*Proceedings of the 16th International Conference on Educational Data Mining*. <a href="https://educationaldatamining.org/EDM2023/proceedings/2023.EDM-long-papers.11/2023.EDM-long-papers.11.pdf">Download the Paper here</a> 
 <span style="color:green">Best Student Full Paper Award</span>
