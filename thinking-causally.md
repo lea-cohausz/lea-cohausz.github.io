@@ -23,6 +23,7 @@ Causal Modeling and DAGs are interesting in many ways. The most important are:
 - We can select only those variables for predictive models that should have a causal influence on the target, therefore, using DAGs for feature selection. This might not only lead to better and more efficient models but also models with influences we know and can explain. This, in turn, leads to better explainability and generates trust.
 
 ### Tentative Schedule
+The exact date and time will be anounced soon. Here is a tentative timeline:
 
 | Time          | Activity                                |
 | ------------- | --------------------------------------- |
