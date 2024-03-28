@@ -26,6 +26,9 @@ navbar-links:
   #  - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
 
+navbar-links:
+  Tutorial EDM 2024: "thinking-causally"
+
 ################
 # --- Logo --- #
 ################
