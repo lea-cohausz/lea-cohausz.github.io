@@ -34,6 +34,25 @@ If you are interested in any of these topics, feel free to reach out to me.
 
 
 
+### Teaching
+
+- Decision Support: Master-level course on the basics of logic and probability theory, graphical models (in particular BNs), utility theory, game theory, and reinforcement learning
+- Industrial Applications of AI (my sessions: agriculture/computer vision and education/XAI/causal modelling and biases): hands-on Master-level course
+- Master Team Project and Master Seminar Content Recommendation
+
+
+### Interests Outside Academia
+
+I enjoy being outside, going on hikes, bouldering, sailing, playing all kinds of sports, and being a volunteer firefighter.
+
+
+### Social Involvement
+- volunteer firefighter in Mannheim
+- co-organizing the <a href="https://wuman.de/wids/">Women in Data Science Event</a> in Mannheim
+- active in the <a href="https://www.cybermentorin.de/index.php/de/">Cybermentorin community</a> which focuses on getting more girls interested in STEM
+- currently inactive sports coach
+
+
 ### Publications
 
 Lea Cohausz, Jakob Kappenberger & Heiner Stuckenschmidt. 2024. What fairness metrics can really tell you: A case study in the educational domain. *Proceedings of the 14th International Conference on Learning Analytics and Knowledge*. <a href="https://madoc.bib.uni-mannheim.de/66479/1/lak24-30.pdf">Download the Paper here</a> 
@@ -55,22 +74,3 @@ Nils Wilken, Lea Cohausz, Christian Batelt & Heiner Stuckenschmidt. 2023. Planni
 Sarah Alturki, Lea Cohausz & Heiner Stuckenschmidt. 2022. Predicting Master’s students’ academic performance: an empirical study in Germany. *Smart Learning Environments*, **9**(1), 1-22. https://doi.org/10.1186/s40561-022-00220-y
 
 Nils Wilken, Lea Cohausz, Johannes Schaum, Stefan Lüdtke, Christian Bartelt and Heiner Stuckenschmidt. 2022. Leveraging Planning Landmarks for Hybrid Online Goal Recognition. *ICAPS SPARK.*
-
-
-### Teaching
-
-- Decision Support: Master-level course on the basics of logic and probability theory, graphical models (in particular BNs), utility theory, game theory, and reinforcement learning
-- Industrial Applications of AI (my sessions: agriculture/computer vision and education/XAI/causal modelling and biases): hands-on Master-level course
-- Master Team Project and Master Seminar Content Recommendation
-
-
-### Interests Outside Academia
-
-I enjoy being outside, going on hikes, bouldering, sailing, playing all kinds of sports, and being a volunteer firefighter.
-
-
-### Social Involvement
-- volunteer firefighter in Mannheim
-- co-organizing the <a href="https://wuman.de/wids/">Women in Data Science Event</a> in Mannheim
-- active in the <a href="https://www.cybermentorin.de/index.php/de/">Cybermentorin community</a> which focuses on getting more girls interested in STEM
-- currently inactive sports coach
