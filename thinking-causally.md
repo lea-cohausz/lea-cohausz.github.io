@@ -27,7 +27,7 @@ The exact date and time will be anounced soon. Here is a tentative timeline:
 
 | Time          | Activity                                |
 | ------------- | --------------------------------------- |
-| 9:00-9:30 am  | Introduction to Causality and DAGs      |
+| 9:00-9:45 am  | Introduction to Causality and DAGs      |
 | 9:45-10:00 am | Mini Break                              |
 | 10:00-10:10 am| Introduction to *DAGitty*               |
 | 10:10-10:30 am| Group Work using *DAGitty*              |
