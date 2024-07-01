@@ -38,5 +38,5 @@ The exact date and time will be anounced soon. Here is a tentative timeline:
 | 12:15-12:25 am| Concluding Remarks                      |
 
 ### Materials
-Links to resources will be added here soon.
+[Here are the materials we will use during the tutorial.](https://github.com/lea-cohausz/EDM24-Causal-Modeling)
 
