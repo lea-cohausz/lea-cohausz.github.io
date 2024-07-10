@@ -10,6 +10,8 @@ During the EDM 2024 conference, I will be holding a tutorial on Causal Modeling 
 In short, anyone who is interested in learning something about causal modeling and Directed Acyclic Graphs (DAGs) in a hands-on way.
 The tutorial will be held in a hybrid fashion, meaning that you can particpate virtually or in person. Either way, I'm looking forward to meeting you!
 
+The Zoom meeting link will be pusblished here 15 minues before the event starts.
+
 ### What will we discuss?
 We start with a theoretical introduction to causality, DAGs, and important concepts regarding this. This will include a brief recap of conditional independence, an explanation of confounders, colliders, and blocking variables. Don't worry if you have never heard of some of those terms – we will start from the beginning.
 Afterward, we introduce [DAGitty](https://www.dagitty.net/dags.html), a tool that allows us to model DAGs and that helps us in analyzing them. For example, *DAGitty* tells the user which variables to control for when we are interested in estimating the effect one variable has on another.
