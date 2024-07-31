@@ -4,6 +4,8 @@ title: Thinking Causally in EDM
 subtitle: A Hands-On Tutorial for Causal Modeling Using DAGs – EDM 2024
 ---
 
+**Update**: During the tutorial, I mentioned our package for fairness through causal modeling. It is available [here](https://github.com/lea-cohausz/causalfair). The paper introducing it will be published soon.
+
 During the EDM 2024 conference, I will be holding a tutorial on Causal Modeling in EDM. 
 
 ### Who can participate?
