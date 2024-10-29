@@ -10,10 +10,11 @@ My name is Lea Cohausz and I'm a PhD student specializing in Artificial Intellig
 ### Research Interests
 
 - **causal modelling and causal structure learning**
-- **combining causal inference and predictive models**
-- XAI and fairness
+- **causal modelling and fairness**
+- Explainability
+- combining causal inference and predictive models
 - much of the above in the context of Educational Data Mining
-- AI-Planning and Reinforcement Learning for Goal and Plan Recognition
+- (AI-Planning and Reinforcement Learning for Goal and Plan Recognition)
 
 If you are interested in any of these topics, feel free to reach out to me.
 
@@ -35,10 +36,17 @@ If you are interested in any of these topics, feel free to reach out to me.
 
 
 ### Teaching
-
+I am actively involved in teaching several courses:
 - Decision Support: Master-level course on the basics of logic and probability theory, graphical models (in particular BNs), utility theory, game theory, and reinforcement learning
 - Industrial Applications of AI (my sessions: agriculture/computer vision and education/XAI/causal modelling and biases): hands-on Master-level course
 - Master Team Project and Master Seminar Content Recommendation
+
+
+### Workshops & Tutorials
+I have (co-)organized workshops and tutorials:
+- EDM 2024: Tutorial on *Thinking Causally in EDM: A Hands-On Tutorial for Causal Modeling Using DAGs*
+- EDM 2024: Workshop on *Human-Centric eXplainable AI in Education (HEXED)* with Juan D. Pinto, Luc Paquette, Vinitra Swamy, Tanja Käser, and Qianhui Liu
+- DELFI 2024: Workshop on *Learning Analytics: Study Path and Curriculum Analytics* with Frederik Baucks and Niels Seidel
 
 
 ### Interests Outside Academia
@@ -55,6 +63,18 @@ I enjoy being outside, going on hikes, bouldering, sailing, playing all kinds of
 
 ### Publications
 
+Nils Wilken, Lea Cohausz, Christian Bartelt, & Heiner Stuckenschmidt. (2024). Fact Probability Vector Based Goal Recognition. *Proceedings of the European Conference of Artificical Intelligence 2024*, **392**(4254-4261). <a href="https://arxiv.org/pdf/2408.14224">The paper</a>
+
+Lea Cohausz, Frederik Baucks, & Niels Seidel (2024). Workshop Learning Analytics: Study Path and Curriculum Analytics. In *Proceedings of DELFI Workshops 2024* (pp. 10-18420). Gesellschaft für Informatik eV.
+
+Thilo I. Dieing, Marc Scheffler, & Lea Cohausz (2024). Enhancing Chatbot-Assisted Study Program Orientation. In *Proceedings of DELFI Workshops 2024* (pp. 10-18420). Gesellschaft für Informatik eV.
+
+Marc Scheffler, Thilo I. Dieing, & Lea Cohausz (2024). Developing a Personalized Study Program Recommender. In *Proceedings of DELFI Workshops 2024* (pp. 10-18420). Gesellschaft für Informatik eV.
+
+Lea Cohausz (2024). Thinking Causally in EDM: A Hands-On Tutorial for Causal Modeling Using DAGs.
+
+Juan D. Pinto, Luc Paquette, Vinitra Swamy, Tanja Käser, Qianhui Liu & Lea Cohausz (2024). *Human-Centric eXplainable AI in Education (HEXED) Workshop*.
+
 Lea Cohausz, Jakob Kappenberger & Heiner Stuckenschmidt. 2024. What fairness metrics can really tell you: A case study in the educational domain. *Proceedings of the 14th International Conference on Learning Analytics and Knowledge*. <a href="https://madoc.bib.uni-mannheim.de/66479/1/lak24-30.pdf">Download the Paper here</a> 
 
 Lea Cohausz, Andrej Tschalzev, Christian Bartelt & Heiner Stuckenschmidt. 2023. Investigating the Importance of Demographic Features for EDM-Predictions. *Proceedings of the 16th International Conference on Educational Data Mining*. <a href="https://educationaldatamining.org/EDM2023/proceedings/2023.EDM-long-papers.11/2023.EDM-long-papers.11.pdf">Download the Paper here</a> 
@@ -65,7 +85,6 @@ Lea Cohausz. 2022. When Probabilities Are Not Enough - A Framework for Causal Ex
 Lea Cohausz. 2022. Towards Real Interpretability of Student Success Prediction Combining Methods of XAI and Social Science.
 *Proceedings of the 15th International Conference on Educational Data Mining, 361–367*. <a href="https://doi.org/10.5281/zenodo.6853069">Download the Paper here</a> 
 <span style="color:green">Best Student Short Paper Award</span>
-
 
 Lea Cohausz, Nils Wilken & Heiner Stuckenschmidt. 2022. Plan-Similarity Based Heuristics for Goal Recognition. In *2022 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops) (pp. 316-321)*. IEEE.
 
