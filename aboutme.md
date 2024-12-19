@@ -63,7 +63,11 @@ I enjoy being outside, going on hikes, bouldering, sailing, playing all kinds of
 
 ### Publications
 
-Nils Wilken, Lea Cohausz, Christian Bartelt, & Heiner Stuckenschmidt. (2024). Fact Probability Vector Based Goal Recognition. *Proceedings of the European Conference of Artificical Intelligence 2024*, **392**(4254-4261). <a href="https://arxiv.org/pdf/2408.14224">The paper</a>
+Lea Cohausz, Andrej Tschalzev, Christian Bartelt & Heiner Stuckenschmidt (2024). Investigating Demographic Features and their Connection to Performance, Predictions, and Fairness in EDM Models. *Journal of Educational Data Mining*, **16**(2), 177-213. <a href="https://jedm.educationaldatamining.org/index.php/JEDM/article/view/718">The paper</a>
+
+Lea Cohausz, Jakob Kappenberger & Heiner Stuckenschmidt (2024). Combining Fairness and Causal Graphs to Advance Both. *Workshop Proceedings of the European Conference of Artificical Intelligence 2024.* Workshop on Fairness and Bias in AI. <a href="https://ceur-ws.org/Vol-3808/paper3.pdf">The paper</a>
+
+Nils Wilken, Lea Cohausz, Christian Bartelt, & Heiner Stuckenschmidt (2024). Fact Probability Vector Based Goal Recognition. *Proceedings of the European Conference of Artificical Intelligence 2024*, **392**(4254-4261). <a href="https://arxiv.org/pdf/2408.14224">The paper</a>
 
 Lea Cohausz, Frederik Baucks, & Niels Seidel (2024). Workshop Learning Analytics: Study Path and Curriculum Analytics. In *Proceedings of DELFI Workshops 2024* (pp. 10-18420). Gesellschaft für Informatik eV.
 
