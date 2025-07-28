@@ -37,7 +37,7 @@ If you are interested in any of these topics, feel free to reach out to me.
 
 ### Teaching
 I am actively involved in teaching several courses:
-- Founddatioons of AI – Reaasaoning and Decision Making: Master-level course on the basics of logic and probability theory, graphical models (in particular BNs), utility theory, game theory, and reinforcement learning
+- Foundations of AI – Reasoning and Decision Making: Master-level course on the basics of logic and probability theory, graphical models (in particular BNs), utility theory, game theory, and reinforcement learning
 - Industrial Applications of AI (my sessions: agriculture/computer vision and education/XAI/causal modelling and biases): hands-on Master-level course
 - Master Team Project and Master Seminar Content Recommendation
 
