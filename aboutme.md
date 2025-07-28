@@ -37,13 +37,14 @@ If you are interested in any of these topics, feel free to reach out to me.
 
 ### Teaching
 I am actively involved in teaching several courses:
-- Decision Support: Master-level course on the basics of logic and probability theory, graphical models (in particular BNs), utility theory, game theory, and reinforcement learning
+- Founddatioons of AI – Reaasaoning and Decision Making: Master-level course on the basics of logic and probability theory, graphical models (in particular BNs), utility theory, game theory, and reinforcement learning
 - Industrial Applications of AI (my sessions: agriculture/computer vision and education/XAI/causal modelling and biases): hands-on Master-level course
 - Master Team Project and Master Seminar Content Recommendation
 
 
 ### Workshops & Tutorials
 I have (co-)organized workshops and tutorials:
+- EDM 2025: Workshop on *Human-Centric eXplainable AI in Education (HEXED)* with Juan D. Pinto, Jakub Kuzilek, Luc Paquette, Vinitra Swamy, Tanja Käser, and Qianhui Liu
 - EDM 2024: Tutorial on *Thinking Causally in EDM: A Hands-On Tutorial for Causal Modeling Using DAGs*
 - EDM 2024: Workshop on *Human-Centric eXplainable AI in Education (HEXED)* with Juan D. Pinto, Luc Paquette, Vinitra Swamy, Tanja Käser, and Qianhui Liu
 - DELFI 2024: Workshop on *Learning Analytics: Study Path and Curriculum Analytics* with Frederik Baucks and Niels Seidel
@@ -62,6 +63,9 @@ I enjoy being outside, going on hikes, bouldering, sailing, playing all kinds of
 
 
 ### Publications
+Cohausz, Lea (2025, July). Why the Future of AIED is Causal: Arguments for Creating a Tradition Based on Causal Thinking. In *International Conference on Artificial Intelligence in Education* (pp. 17-31). Cham: Springer Nature Switzerland. <a href="https://link.springer.com/chapter/10.1007/978-3-031-99261-2_2">The paper</a>
+
+Dieing, Thilo. I, & Cohausz, Lea (2025, July). Where’s the F***ing Filter? A Survey on Handling Problematic and Sensitive Questions in Open Educational Chatbots. In *International Conference on Artificial Intelligence in Education* (pp. 108-115). Cham: Springer Nature Switzerland. <a href="https://link.springer.com/chapter/10.1007/978-3-031-98462-4_14">The paper</a>
 
 Lea Cohausz, Andrej Tschalzev, Christian Bartelt & Heiner Stuckenschmidt (2024). Investigating Demographic Features and their Connection to Performance, Predictions, and Fairness in EDM Models. *Journal of Educational Data Mining*, **16**(2), 177-213. <a href="https://jedm.educationaldatamining.org/index.php/JEDM/article/view/718">The paper</a>
 
